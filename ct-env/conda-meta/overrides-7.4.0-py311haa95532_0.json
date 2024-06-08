@@ -1,0 +1,54 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\overrides-7.4.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/overrides-7.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/overrides-7.4.0.dist-info/LICENSE",
+    "Lib/site-packages/overrides-7.4.0.dist-info/METADATA",
+    "Lib/site-packages/overrides-7.4.0.dist-info/RECORD",
+    "Lib/site-packages/overrides-7.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/overrides-7.4.0.dist-info/WHEEL",
+    "Lib/site-packages/overrides-7.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/overrides-7.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/overrides/__init__.py",
+    "Lib/site-packages/overrides/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/overrides/__pycache__/enforce.cpython-311.pyc",
+    "Lib/site-packages/overrides/__pycache__/final.cpython-311.pyc",
+    "Lib/site-packages/overrides/__pycache__/overrides.cpython-311.pyc",
+    "Lib/site-packages/overrides/__pycache__/signature.cpython-311.pyc",
+    "Lib/site-packages/overrides/__pycache__/typing_utils.cpython-311.pyc",
+    "Lib/site-packages/overrides/enforce.py",
+    "Lib/site-packages/overrides/final.py",
+    "Lib/site-packages/overrides/overrides.py",
+    "Lib/site-packages/overrides/py.typed",
+    "Lib/site-packages/overrides/signature.py",
+    "Lib/site-packages/overrides/typing_utils.py",
+    ".nonadmin"
+  ],
+  "fn": "overrides-7.4.0-py311haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\overrides-7.4.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "2fce954c7acea62b0accdb08cbaac5be",
+  "name": "overrides",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\overrides-7.4.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3abb30e13dd60969a47bd60368df10e425b6945aadae1b6cadbc87ddc22c827b",
+  "size": 38473,
+  "subdir": "win-64",
+  "timestamp": 1699371341000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/overrides-7.4.0-py311haa95532_0.conda",
+  "version": "7.4.0"
+}

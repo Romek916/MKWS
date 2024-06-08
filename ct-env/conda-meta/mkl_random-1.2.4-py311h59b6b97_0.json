@@ -1,0 +1,48 @@
+{
+  "build": "py311h59b6b97_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "numpy",
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "blas * mkl"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\mkl_random-1.2.4-py311h59b6b97_0",
+  "files": [
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/INSTALLER",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/LICENSE.txt",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/METADATA",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/RECORD",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/REQUESTED",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/WHEEL",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/direct_url.json",
+    "Lib/site-packages/mkl_random-1.2.4.dist-info/top_level.txt",
+    "Lib/site-packages/mkl_random/mklrand.cp311-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "mkl_random-1.2.4-py311h59b6b97_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\mkl_random-1.2.4-py311h59b6b97_0",
+    "type": 1
+  },
+  "md5": "a9c2deb31d72c93758e4867d47e57ba2",
+  "name": "mkl_random",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\mkl_random-1.2.4-py311h59b6b97_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9254e85b1051e48898da8df7e625c87c96da8c9b4d3cd713e399f049a51dcba5",
+  "size": 233098,
+  "subdir": "win-64",
+  "timestamp": 1695060425000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl_random-1.2.4-py311h59b6b97_0.conda",
+  "version": "1.2.4"
+}

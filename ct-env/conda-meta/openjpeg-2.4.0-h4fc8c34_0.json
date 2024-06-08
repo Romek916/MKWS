@@ -1,0 +1,57 @@
+{
+  "build": "h4fc8c34_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libpng >=1.6.37,<1.7.0a0",
+    "libtiff >=4.1.0,<5.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\openjpeg-2.4.0-h4fc8c34_0",
+  "files": [
+    "Library/bin/openjp2.dll",
+    "Library/bin/opj_compress.exe",
+    "Library/bin/opj_decompress.exe",
+    "Library/bin/opj_dump.exe",
+    "Library/include/openjpeg-2.4/openjpeg.h",
+    "Library/include/openjpeg-2.4/opj_config.h",
+    "Library/include/openjpeg-2.4/opj_stdint.h",
+    "Library/lib/openjp2.lib",
+    "Library/lib/openjpeg-2.4/OpenJPEGConfig.cmake",
+    "Library/lib/openjpeg-2.4/OpenJPEGTargets-release.cmake",
+    "Library/lib/openjpeg-2.4/OpenJPEGTargets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "openjpeg-2.4.0-h4fc8c34_0.conda",
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\openjpeg-2.4.0-h4fc8c34_0",
+    "type": 1
+  },
+  "md5": "e8c853905e5aad77f2eae17fdb3d6fb0",
+  "name": "openjpeg",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\openjpeg-2.4.0-h4fc8c34_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/openjpeg-2.4/OpenJPEGConfig.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/openjpeg_1630093895321/_h_env",
+        "sha256": "32d91f0fd09ef98e3d35533e64eef1849b78ee6d710bc5e59f0c326cabd4c74d",
+        "sha256_in_prefix": "05738473e124cf1771aa0a6fb0097ec96a930b1d84b6209364cdec731153e3da",
+        "size_in_bytes": 1377
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3c1666a27456b0aafad389875094921c7040677aac1024f7627152af579e2e86",
+  "size": 224490,
+  "subdir": "win-64",
+  "timestamp": 1630094024000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/openjpeg-2.4.0-h4fc8c34_0.conda",
+  "version": "2.4.0"
+}

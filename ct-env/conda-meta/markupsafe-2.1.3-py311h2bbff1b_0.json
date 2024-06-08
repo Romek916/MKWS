@@ -1,0 +1,53 @@
+{
+  "build": "py311h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "jinja2 >=3.0.0"
+  ],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\markupsafe-2.1.3-py311h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/INSTALLER",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/LICENSE.rst",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/METADATA",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/RECORD",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/REQUESTED",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/WHEEL",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/direct_url.json",
+    "Lib/site-packages/MarkupSafe-2.1.3.dist-info/top_level.txt",
+    "Lib/site-packages/markupsafe/__init__.py",
+    "Lib/site-packages/markupsafe/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/markupsafe/__pycache__/_native.cpython-311.pyc",
+    "Lib/site-packages/markupsafe/_native.py",
+    "Lib/site-packages/markupsafe/_speedups.c",
+    "Lib/site-packages/markupsafe/_speedups.cp311-win_amd64.pyd",
+    "Lib/site-packages/markupsafe/_speedups.pyi",
+    "Lib/site-packages/markupsafe/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "markupsafe-2.1.3-py311h2bbff1b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\markupsafe-2.1.3-py311h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "a2a53324929b4ebb9536cf769d494d88",
+  "name": "markupsafe",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\markupsafe-2.1.3-py311h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7b096ca6ba11be9628ba929a4c454061581b6ae694174c9a9fcbf3bac4c725ed",
+  "size": 28936,
+  "subdir": "win-64",
+  "timestamp": 1704206218000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/markupsafe-2.1.3-py311h2bbff1b_0.conda",
+  "version": "2.1.3"
+}

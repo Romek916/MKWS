@@ -1,0 +1,68 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "jupyterlab >=3,<5"
+  ],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.10-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/INSTALLER",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/LICENSE",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/METADATA",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/RECORD",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/REQUESTED",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/WHEEL",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/direct_url.json",
+    "Lib/site-packages/jupyterlab_widgets-3.0.10.dist-info/top_level.txt",
+    "Lib/site-packages/jupyterlab_widgets/__init__.py",
+    "Lib/site-packages/jupyterlab_widgets/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/jupyterlab_widgets/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/jupyterlab_widgets/_version.py",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/install.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/package.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/package.json.orig",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/plugin.json",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/113.e4cfda62b59ddbe550d3.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/113.e4cfda62b59ddbe550d3.js.LICENSE.txt",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/134.fe2572ece3b7955c89bb.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/202.0336063976910618ce3f.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/291.cff5ef71b29e18850479.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/291.cff5ef71b29e18850479.js.LICENSE.txt",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/336.0a90bd910629a565bb7e.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/495.3e275af54861cdeb3e75.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/595.998263bfa9875eeeb29b.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/596.6ead6b6190d3ef27b60a.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/61.21f571face17e35076c2.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/644.52a1098a3a5f3e45abff.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/699.e966b1425a7d4e8c3f4e.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/965.5f43c4fc8f77ed09927b.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/remoteEntry.9f387e5e108e458f62c3.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/style.js",
+    "share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "jupyterlab_widgets-3.0.10-py311haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.10-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "bea182c70bc2e73399d08af67d8ad0a6",
+  "name": "jupyterlab_widgets",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyterlab_widgets-3.0.10-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "df0a37a7b72db9a6ef45617c9460bfc732f610188f024df8a8bb957956243f48",
+  "size": 200666,
+  "subdir": "win-64",
+  "timestamp": 1709323334000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyterlab_widgets-3.0.10-py311haa95532_0.conda",
+  "version": "3.0.10"
+}

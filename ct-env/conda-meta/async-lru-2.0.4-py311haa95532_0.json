@@ -1,0 +1,44 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\async-lru-2.0.4-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/async_lru-2.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/LICENSE",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/METADATA",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/RECORD",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/WHEEL",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/async_lru-2.0.4.dist-info/top_level.txt",
+    "Lib/site-packages/async_lru/__init__.py",
+    "Lib/site-packages/async_lru/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/async_lru/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "async-lru-2.0.4-py311haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\async-lru-2.0.4-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "53ea94acc0d0ab2572c15c3798db774c",
+  "name": "async-lru",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\async-lru-2.0.4-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "26982eaa7c1381d89008d8b5e8e43e9dd4777957f80d37f1cd88282a57c95a07",
+  "size": 21869,
+  "subdir": "win-64",
+  "timestamp": 1699554782000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/async-lru-2.0.4-py311haa95532_0.conda",
+  "version": "2.0.4"
+}

@@ -1,0 +1,57 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "webencodings >=0.4"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\tinycss2-1.2.1-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/LICENSE",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/METADATA",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/RECORD",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/WHEEL",
+    "Lib/site-packages/tinycss2-1.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/tinycss2/__init__.py",
+    "Lib/site-packages/tinycss2/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/ast.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/bytes.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/color3.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/nth.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/parser.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/serializer.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/__pycache__/tokenizer.cpython-311.pyc",
+    "Lib/site-packages/tinycss2/ast.py",
+    "Lib/site-packages/tinycss2/bytes.py",
+    "Lib/site-packages/tinycss2/color3.py",
+    "Lib/site-packages/tinycss2/nth.py",
+    "Lib/site-packages/tinycss2/parser.py",
+    "Lib/site-packages/tinycss2/serializer.py",
+    "Lib/site-packages/tinycss2/tokenizer.py",
+    ".nonadmin"
+  ],
+  "fn": "tinycss2-1.2.1-py311haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\tinycss2-1.2.1-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "da37a69f02e8f0253e3cad10ae8b90f3",
+  "name": "tinycss2",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\tinycss2-1.2.1-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9f97ffc26bb9a77a105e9b6062e3c510c9c397526b36182e7318e8b0b79471e2",
+  "size": 48466,
+  "subdir": "win-64",
+  "timestamp": 1676425411000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tinycss2-1.2.1-py311haa95532_0.conda",
+  "version": "1.2.1"
+}

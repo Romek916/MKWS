@@ -1,0 +1,48 @@
+{
+  "build": "py311haa95532_9",
+  "build_number": 9,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "jupyterlab",
+    "nbconvert",
+    "notebook",
+    "python >=3.11,<3.12.0a0",
+    "qtconsole"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyter-1.0.0-py311haa95532_9",
+  "files": [
+    "Lib/site-packages/jupyter-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "jupyter-1.0.0-py311haa95532_9.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyter-1.0.0-py311haa95532_9",
+    "type": 1
+  },
+  "md5": "e60c92795fc31334eaf39dde154fbce5",
+  "name": "jupyter",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\jupyter-1.0.0-py311haa95532_9.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "jupyter",
+  "sha256": "29aceb25ae0a32d7599cd38b31b62fe6f59a4ed4eaa90b5a2f239ff675718e96",
+  "size": 8492,
+  "subdir": "win-64",
+  "timestamp": 1707947522000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter-1.0.0-py311haa95532_9.conda",
+  "version": "1.0.0"
+}

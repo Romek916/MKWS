@@ -1,0 +1,58 @@
+{
+  "build": "h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Roman\\anaconda3\\pkgs\\jpeg-9e-h2bbff1b_1",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib",
+    "Library/lib/pkgconfig/libjpeg.pc",
+    ".nonadmin"
+  ],
+  "fn": "jpeg-9e-h2bbff1b_1.conda",
+  "license": "IJG",
+  "link": {
+    "source": "C:\\Users\\Roman\\anaconda3\\pkgs\\jpeg-9e-h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "7e652a42819c2d3da9bd42179278f15f",
+  "name": "jpeg",
+  "package_tarball_full_path": "C:\\Users\\Roman\\anaconda3\\pkgs\\jpeg-9e-h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libjpeg.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_fd106csod8/croot/jpeg_1677849141395/_h_env",
+        "sha256": "0040bb37ac3bcf428a2b54d2049842d20a07b92c4dae6d4d020b2b92d76f68c4",
+        "sha256_in_prefix": "3105c52d221eb3eedd669ea6b332c47492541074eb110b4e6830e4afc534137d",
+        "size_in_bytes": 272
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0eaad47b16d494aa1eecb57087ec1e54af208ffc0a588380631ab387664f158c",
+  "size": 327569,
+  "subdir": "win-64",
+  "timestamp": 1677849239000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jpeg-9e-h2bbff1b_1.conda",
+  "version": "9e"
+}
