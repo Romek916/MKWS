@@ -1,0 +1,32 @@
+
+  gas:
+
+       temperature   1883.8 K
+          pressure   1.0132e+05 Pa
+           density   0.069085 kg/m^3
+  mean mol. weight   10.679 kg/kmol
+   phase of matter   gas
+
+                          1 kg             1 kmol     
+                     ---------------   ---------------
+          enthalpy        4.6906e+06        5.0092e+07  J
+   internal energy         3.224e+06        3.4429e+07  J
+           entropy             19931        2.1285e+05  J/K
+    Gibbs function       -3.2856e+07       -3.5087e+08  J
+ heat capacity c_p            3227.6             34468  J/K
+ heat capacity c_v              2449             26154  J/K
+
+                      mass frac. Y      mole frac. X     chem. pot. / RT
+                     ---------------   ---------------   ---------------
+                 H        5.0912e-05        0.00053939           -9.9087
+                H2           0.12576            0.6662           -19.696
+                 N         2.013e-09        1.5348e-09           -11.059
+                N2           0.87415           0.33324            -27.83
+                NH        2.3005e-10        1.6362e-10           -25.165
+               NH2        3.6891e-05        2.4588e-05           -26.446
+               NH3        7.4862e-07        4.6942e-07           -46.284
+               NNH        4.6391e-11        1.7071e-11           -40.889
+              N2H2        6.4585e-08        2.2968e-08            -36.32
+              N2H3         3.061e-14        1.0532e-14             -57.5
+     [   +1 minor]        2.2658e-20        7.5509e-21  
+
