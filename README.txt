@@ -1,4 +1,4 @@
-Witam wrepozytorium projektu z przedmiotu Metody Komputerowe w Spalaniu. 
+Witam w repozytorium projektu z przedmiotu Metody Komputerowe w Spalaniu. 
 Oto krótki przewodnik po zawartych plikach.
 ------------------------------------------------------------------------
 Folder ct-env zawiera środowisko konieczne do uruchomienia kodu 
